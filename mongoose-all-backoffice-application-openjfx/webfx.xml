@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project executable="true">
+
+    <exported-packages>
+        <source-packages/>
+    </exported-packages>
+
+    <dependencies>
+        <used-by-source-modules>
+            <undiscovered-used-by-source-module>webfx-framework-client-activity</undiscovered-used-by-source-module>
+            <undiscovered-used-by-source-module>webfx-platform-shared-util</undiscovered-used-by-source-module>
+        </used-by-source-modules>
+    </dependencies>
+
+</project>
