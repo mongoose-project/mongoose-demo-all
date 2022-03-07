@@ -35,15 +35,15 @@
 
     <modules>
 
-        <module>mongoose-all-backoffice-application</module>
-        <module>mongoose-all-backoffice-application-openjfx</module>
-        <module>mongoose-all-backoffice-application-gwt</module>
-        <module>mongoose-all-backoffice-application-gluon</module>
+        <module>mongoose-demo-all-backoffice-application</module>
+        <module>mongoose-demo-all-backoffice-application-openjfx</module>
+        <module>mongoose-demo-all-backoffice-application-gwt</module>
+        <module>mongoose-demo-all-backoffice-application-gluon</module>
 
-        <module>mongoose-all-frontoffice-application</module>
-        <module>mongoose-all-frontoffice-application-openjfx</module>
-        <module>mongoose-all-frontoffice-application-gwt</module>
-        <module>mongoose-all-frontoffice-application-gluon</module>
+        <module>mongoose-demo-all-frontoffice-application</module>
+        <module>mongoose-demo-all-frontoffice-application-openjfx</module>
+        <module>mongoose-demo-all-frontoffice-application-gwt</module>
+        <module>mongoose-demo-all-frontoffice-application-gluon</module>
 
     </modules>
 
